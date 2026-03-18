@@ -42,5 +42,5 @@ A feladat egy olyan program és a hozzá tartozó GLSL shader fájlok elkészít
 
 ### Saját ötlet
 
-#### 7. Színváltoztatás
+#### Színváltoztatás
 - Az **A** és **D** billentyűk segítségével legyen lehetőség a színek módosítására.
