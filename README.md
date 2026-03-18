@@ -40,5 +40,7 @@ A feladat egy olyan program és a hozzá tartozó GLSL shader fájlok elkészít
   - a **határ (zöld)** és a **centrum (piros)** színei **cserélődjenek fel**
 - Ez a változás az interpolált belső pontokra is hasson.
 
+### Saját ötlet
+
 #### 7. Színváltoztatás
 - Az **A** és **D** billentyűk segítségével legyen lehetőség a színek módosítására.
