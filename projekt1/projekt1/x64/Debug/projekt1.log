@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\tothr\Desktop\Grafika\Első projekt v6\projekt1\projekt1\Source.cpp(143,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tothr\Desktop\Grafika\Első projekt v6\projekt1\projekt1\Source.cpp(148,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tothr\Desktop\Grafika\Első projekt v6\projekt1\projekt1\Source.cpp(175,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tothr\Desktop\Grafika\Első projekt v6\projekt1\projekt1\Source.cpp(177,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tothr\Desktop\Grafika\Első projekt v6\projekt1\projekt1\Source.cpp(200,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  projekt1.vcxproj -> C:\Users\tothr\Desktop\Grafika\Első projekt v6\projekt1\x64\Debug\projekt1.exe
