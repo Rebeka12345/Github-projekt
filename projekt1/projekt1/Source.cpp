@@ -241,6 +241,7 @@ int main()
 
     glViewport(0, 0, WINDOW_WIDTH, WINDOW_HEIGHT);
 
+    cout << "Tóth Rebeka\n";
     cout << "=============================\n";
     cout << "Gombok:\n";
     cout << "A   ->   Szurke + Kek + Magenta\n";
