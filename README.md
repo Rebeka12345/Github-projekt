@@ -1,4 +1,4 @@
-# Github-projektek:
+# Grafika-projektek:
 
 ## Első projekt
 A feladat egy olyan program és a hozzá tartozó GLSL shader fájlok elkészítése, amely egy kör megjelenítésére és animációjára képes. A kör a képernyő széleit érintve, megfelelő szögben visszapattan, miközben mozgása folyamatos marad (a lépéshossz falérintéskor arányosan módosul).
